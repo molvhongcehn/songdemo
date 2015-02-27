@@ -1,0 +1,13 @@
+<script type="text/javascript" src="${contextPath}/plugins/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/moment/moment-with-locales.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/bootstrap/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/bootstrap/js/bootstrap-daterangepicker.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/uploadify/jquery.uploadify.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/imgareaselect/scripts/jquery.imgareaselect.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/validation/js/jquery.validationEngine-zh_CN.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/validation/js/jquery.validationEngine.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/websocket/sockjs-0.3.4.min.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/websocket/stomp.js"></script>
+<script type="text/javascript" src="${contextPath}/plugins/highcharts/highcharts-4.0.3.js"></script>
+<script type="text/javascript" src="${contextPath}/js/devoops.js"></script>
