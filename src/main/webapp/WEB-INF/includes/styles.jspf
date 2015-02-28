@@ -1,8 +1,8 @@
-<link type="text/css" href="${contextPath}/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-<link type="text/css" href="${contextPath}/plugins/bootstrap/css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
-<link type="text/css" href="${contextPath}/plugins/bootstrap/css/bootstrap-daterangepicker-bs3.css" rel="stylesheet" />
-<link type="text/css" href="${contextPath}/plugins/uploadify/uploadify.css" rel="stylesheet" />
-<link type="text/css" href="${contextPath}/plugins/imgareaselect/css/imgareaselect-default.css" rel="stylesheet" />
-<link type="text/css" href="${contextPath}/plugins/validation/css/validationEngine.jquery.css" rel="stylesheet" />
-<link type="text/css" href="${contextPath}/css/font-awesome.min.css" rel="stylesheet" />
-<link type="text/css" href="${contextPath}/css/style.css" rel="stylesheet" />
+<link type="text/css" href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link type="text/css" href="plugins/bootstrap/css/bootstrap-datetimepicker.min.css" rel="stylesheet" />
+<link type="text/css" href="plugins/bootstrap/css/bootstrap-daterangepicker-bs3.css" rel="stylesheet" />
+<link type="text/css" href="plugins/uploadify/uploadify.css" rel="stylesheet" />
+<link type="text/css" href="plugins/imgareaselect/css/imgareaselect-default.css" rel="stylesheet" />
+<link type="text/css" href="plugins/validation/css/validationEngine.jquery.css" rel="stylesheet" />
+<link type="text/css" href="css/font-awesome.min.css" rel="stylesheet" />
+<link type="text/css" href="css/style.css" rel="stylesheet" />

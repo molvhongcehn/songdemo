@@ -6,6 +6,7 @@
 <meta charset="utf-8">
 <meta name="renderer" content="webkit">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<%-- <%@ include file="/WEB-INF/includes/lib.jspf"%> --%>
 <%@ include file="/WEB-INF/includes/styles.jspf"%>
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
@@ -123,9 +124,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="${contextPath}/order/order_list.do" class="ajax-link">
+					<a href="${contextPath}/category/category_list.do" class="ajax-link">
 						<i class="fa fa-list-alt"></i>
-						<span class="hidden-xs">订单管理</span>
+						<span class="hidden-xs">歌曲分类管理</span>
 					</a>
 				</li>
 				<li class="dropdown">
